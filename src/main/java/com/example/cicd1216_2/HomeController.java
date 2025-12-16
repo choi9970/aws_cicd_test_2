@@ -19,6 +19,6 @@ public class HomeController {
 
     @GetMapping("/hicicd3")
     public String hicicd3(){
-        return "hicicd 1216-3^^";
+        return "hicicd 1216-3^^kkkk";
     }
 }
